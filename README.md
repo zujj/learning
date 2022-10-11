@@ -74,7 +74,7 @@ Influenced by [amitness](https://github.com/amitness/learning), I wanted to crea
 |  `1:01:14` [Sanchan Saxena](https://podcasts.apple.com/us/podcast/sanchan-saxena-vp-of-product-at-coinbase-on-the/id1627920305?i=1000568876195)        |     ❌     |
 |  `0:59:06` [Merci Grace](https://podcasts.apple.com/us/podcast/merci-grace-ex-head-of-growth-at-slack-on-plg/id1627920305?i=1000569531173)             |     ❌     |
 |  `1:04:56` [Manik Gupta](https://podcasts.apple.com/us/podcast/manik-gupta-ex-cpo-uber-google-maps-on-how-to-build/id1627920305?i=1000569895780)       |     ❌     |
-|  `1:00:54` [Nickey Skarstad](https://podcasts.apple.com/us/podcast/nickey-skarstad-airbnb-etsy-shopify-duolingo-on-translating/id1627920305?i=1000570307436)                                                                                                                                                                  |     ❌     |
+|  `1:00:54` [Nickey Skarstad](https://podcasts.apple.com/us/podcast/nickey-skarstad-airbnb-etsy-shopify-duolingo-on-translating/id1627920305?i=1000570307436)                                                                                                                                                                          |     ❌     |
 |  `0:55:05` [Casey Winters](https://podcasts.apple.com/us/podcast/how-to-sell-your-ideas-and-rise-within-your-company/id1627920305?i=1000570700708)     |     ❌     |
 |  `1:14:01` [Ken Norton](https://podcasts.apple.com/us/podcast/how-to-unlock-your-product-leadership-skills-ken-norton/id1627920305?i=1000570988515)    |     ❌     |
 |  `0:53:42` [Melissa Perri](https://podcasts.apple.com/us/podcast/how-to-create-a-winning-product-strategy-melissa-perri/id1627920305?i=1000571451316)  |     ❌     |
@@ -92,7 +92,7 @@ Influenced by [amitness](https://github.com/amitness/learning), I wanted to crea
 |  `1:10:14` [Jason Shah](https://podcasts.apple.com/us/podcast/building-a-meaningful-career-jason-shah-airbnb/id1627920305?i=1000579823743)             |     ❌     |
 |  `0:59:27` [Julian Shapiro](https://podcasts.apple.com/us/podcast/growth-tactics-retention-strategies-and-becoming/id1627920305?i=1000580555064)       |     ❌     |
 |  `1:06:47` [Georgiana Laudi](https://podcasts.apple.com/us/podcast/customer-led-growth-georgiana-laudi-forget-the-funnel/id1627920305?i=1000581022299) |     ❌     |
-|  `0:56:14` [Kristen Berman](https://podcasts.apple.com/us/podcast/using-behavioral-science-to-improve-your-product-kristen/id1627920305?i=1000581287146)                                                                                                                                                                      |     ❌     |
+|  `0:56:14` [Kristen Berman](https://podcasts.apple.com/us/podcast/using-behavioral-science-to-improve-your-product-kristen/id1627920305?i=1000581287146)                                                                                                                                                                              |     ❌     |
 |  `1:04:05` [Dan Hockenmaier](https://podcasts.apple.com/us/podcast/developing-a-growth-model-marketplace-growth/id1627920305?i=1000582046809)          |     ❌     |
 
 <br>
@@ -202,5 +202,5 @@ Influenced by [amitness](https://github.com/amitness/learning), I wanted to crea
 | [Anki](https://apps.ankiweb.net/) <br> Anki is a free and open-source flashcard program using spaced repetition, a technique from cognitive science for fast and long-lasting memorization. | |
 | :------------------------------------------------------------------------------------------------------------------------- | :--------: |
 | **Resource**                                                                                                               | **Status** |
-| [Sign up for Anki](https://ankiweb.net/account/register) and [download the desktop application](https://apps.ankiweb.net/) |     ❌     |
+| [Sign up for Anki](https://ankiweb.net/account/register) and [download the desktop application](https://apps.ankiweb.net/) |     🚧     |
 | [How To Use Anki: An Efficient Tutorial For Beginners](https://leananki.com/how-to-use-anki-tutorial/)                     |     ❌     |
