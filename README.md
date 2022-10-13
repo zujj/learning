@@ -202,5 +202,5 @@ Influenced by [amitness](https://github.com/amitness/learning), I wanted to crea
 | [Anki](https://apps.ankiweb.net/) <br> Anki is a free and open-source flashcard program using spaced repetition, a technique from cognitive science for fast and long-lasting memorization. | |
 | :------------------------------------------------------------------------------------------------------------------------- | :--------: |
 | **Resource**                                                                                                               | **Status** |
-| [Sign up for Anki](https://ankiweb.net/account/register) and [download the desktop application](https://apps.ankiweb.net/) |     ✔️     |
+| [Sign up for Anki](https://ankiweb.net/account/register) and [download the desktop application](https://apps.ankiweb.net/) |     ❌     |
 | [How To Use Anki: An Efficient Tutorial For Beginners](https://leananki.com/how-to-use-anki-tutorial/)                     |     ❌     |
